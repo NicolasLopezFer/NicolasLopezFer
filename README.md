@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NicolasLopezFer&show_icons=true&theme=gotham" alt="NicolasLopezFer" />
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLopezFer&theme=gotham&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,html" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLopezFer&theme=gotham&langs_count=8&layout=compact&hide=jupyter%20notebook,html" />
