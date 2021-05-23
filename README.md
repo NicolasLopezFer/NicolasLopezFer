@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
- <a href="https://github.com/NicolasLopezFer/NicolasLopezFer">
+<p align="center">
+<a href="https://github.com/NicolasLopezFer/NicolasLopezFer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLopezFer&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/NicolasLopezFer/NicolasLopezFer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicolasLopezFer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nico's GitHub Stats" />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img align="center" alt="NicolasLopezFer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NicolasLopezFer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
+<p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img align="center" alt="NicolasLopezFer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NicolasLopezFer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
