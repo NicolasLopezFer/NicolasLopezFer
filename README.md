@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLopezFer&theme=gotham&langs_count=8&layout=compact&hide=jupyter%20notebook,html" /> <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=NicolasLopezFer&show_icons=true&theme=gotham&margin_left=5" alt="NicolasLopezFer" />
 
 <dif>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLopezFer&theme=gotham&langs_count=8&layout=compact&hide=jupyter%20notebook,html" />
-  <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=NicolasLopezFer&show_icons=true&theme=gotham&margin_left=5" alt="NicolasLopezFer" />
+  <p float="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLopezFer&theme=gotham&langs_count=8&layout=compact&hide=jupyter%20notebook,html" />
+  <p float="right"><img src="https://github-readme-stats.vercel.app/api?username=NicolasLopezFer&show_icons=true&theme=gotham&margin_left=5" alt="NicolasLopezFer" />
 </div>
