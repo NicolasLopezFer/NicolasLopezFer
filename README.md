@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
   <p align="center">
   <a href="https://github.com/NicolasLopezFer/github-readme-streak-stats">
-    <img title="🔥 Nico streaks" alt="Niconi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasLopezFer&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Nico streaks" alt="Niconi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasLopezFer&theme=dark-smoky"/>
   </a>
 </p>
 
