@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 </a>
   <p align=center>
 <a href="https://github.com/NicolasLopezFer/NicolasLopezFer">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicolasLopezFer9817&theme=radical)](https://git.io/streak-stats)
+   <img src=http://github-readme-streak-stats.herokuapp.com?user=NicolasLopezFer9817&theme=radical alt="Nico's Streak/>
 </a>
 
