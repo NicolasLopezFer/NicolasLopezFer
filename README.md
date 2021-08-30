@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## &#x1f4c8; GitHub Stats  <div align = 'right'>![](https://komarev.com/ghpvc/?username=daniel7byte&color=yellow)</div>
+## &#x1f4c8; GitHub Stats  <div align = 'right'>![](https://komarev.com/ghpvc/?username=NicolasLopezFer&color=yellow)</div>
  
   <p align="center">
   <a href="https://github.com/NicolasLopezFer/github-readme-streak-stats">
