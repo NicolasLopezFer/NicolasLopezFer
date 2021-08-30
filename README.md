@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ## &#x1f4c8; GitHub Stats 
-<div align = 'right'>![](https://komarev.com/ghpvc/?username=NicolasLopezFer&color=blue)</div>
+<div align = 'right'>(https://komarev.com/ghpvc/?username=NicolasLopezFer&color=blue)</div>
  
   <p align="center">
   <a href="https://github.com/NicolasLopezFer/github-readme-streak-stats">
