@@ -24,5 +24,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/NicolasLopezFer/github-readme-streak-stats">
     <img title="🔥 Nico streaks" alt="Niconi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasLopezFer&theme=dark-smoky"/>
   </a>
+ 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLopezFer&theme=Gradient&count_private=true&theme=radical&bg_color=30,d00000,faa307&&title_color=fff&text_color=fff&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,html" />
 </p>
 
